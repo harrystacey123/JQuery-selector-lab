@@ -86,6 +86,10 @@ header {
      padding: 25px;
      width: 200px;
      height: 200px;
+    /* background-image: url(https://media.giphy.com/media/UO5elnTqo4vSg/giphy.gif); */
+    background-position: right -9px;
+    color: white;
+    
 }
 
 .purplebox {
@@ -115,3 +119,7 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.harry {
+    color: firebrick;
+}
